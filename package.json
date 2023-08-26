@@ -1,0 +1,20 @@
+{
+  "name": "challenge-air-traffic",
+  "version": "1.0.0",
+  "description": "Challenge node.js",
+  "main": "index.js",
+  "scripts": {
+    "docker": "docker-compose up",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasOriti/Challenge-air-traffic.git"
+  },
+  "author": "Nicolas Oriti Tizio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolasOriti/Challenge-air-traffic/issues"
+  },
+  "homepage": "https://github.com/NicolasOriti/Challenge-air-traffic#readme"
+}
